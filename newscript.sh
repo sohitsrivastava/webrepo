@@ -7,3 +7,4 @@ echo "You are a root user"
 else
 echo "You are not a root user"
 fi
+echo "Your UID is : " ${UID}
